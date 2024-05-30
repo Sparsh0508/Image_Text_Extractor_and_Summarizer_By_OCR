@@ -81,10 +81,5 @@ def main():
 
     else:
         print("No file selected.")
-    # text = extract_text_from_image(imagename)
-    # cleaned_text = preprocess_text(text)
-    # summary = advanced_summarize_text(cleaned_text)
-    # print("Extracted Text:\n", text)
-    # print("\nSummary:\n", summary)
 
 main()
